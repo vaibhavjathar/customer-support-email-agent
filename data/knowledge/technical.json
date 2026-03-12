@@ -1,0 +1,30 @@
+[
+  {
+    "id": "tech_001",
+    "title": "API Authentication Errors",
+    "content": "Error 401: Authentication failed. This means your API key is invalid or expired. Check that you're using the correct API key and that it hasn't been revoked. You can generate a new key in your API settings.",
+    "category": "technical",
+    "tags": ["technical", "api", "authentication", "401"]
+  },
+  {
+    "id": "tech_002",
+    "title": "API Rate Limiting",
+    "content": "We enforce rate limits to ensure service stability. Free tier: 100 requests/hour. Pro tier: 1000 requests/hour. Enterprise: custom limits. If you exceed your limit, retry after a brief delay.",
+    "category": "technical",
+    "tags": ["technical", "api", "rate limit"]
+  },
+  {
+    "id": "tech_003",
+    "title": "Integration Guide",
+    "content": "Step-by-step guide: 1) Get your API key from dashboard. 2) Include it in request headers. 3) Make requests to our endpoints. 4) Handle responses and errors. See documentation for code examples.",
+    "category": "technical",
+    "tags": ["technical", "integration", "api"]
+  },
+  {
+    "id": "tech_004",
+    "title": "Common Integration Issues",
+    "content": "CORS errors: Check your domain whitelist. Timeout errors: Increase timeout value to 30s+. SSL errors: Use HTTPS for all requests. Encoding issues: Ensure UTF-8 encoding.",
+    "category": "technical",
+    "tags": ["technical", "troubleshooting", "errors"]
+  }
+]

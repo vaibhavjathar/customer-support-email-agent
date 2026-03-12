@@ -1,0 +1,89 @@
+# ================================
+# PYTHON
+# ================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ================================
+# VIRTUAL ENVIRONMENTS
+# ================================
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv
+
+# ================================
+# IDE
+# ================================
+.vscode/
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+*.iml
+*.iws
+*.ipr
+
+# ================================
+# ENVIRONMENT VARIABLES
+# ================================
+.env
+.env.local
+.env.*.local
+
+# ================================
+# TESTING
+# ================================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# ================================
+# LOGS AND TEMPORARY FILES
+# ================================
+*.log
+logs/
+*.tmp
+*.temp
+.cache/
+
+# ================================
+# DATA AND SECRETS
+# ================================
+# Exclude database and vector index files
+data/agent.db
+data/faiss_index/
+# Exclude CSV data but keep knowledge base JSON
+data/*.csv
+!data/.gitkeep
+!data/knowledge/
+!data/knowledge/*.json
+.keys
+secrets.json

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "acc_001",
+    "title": "Password Reset",
+    "content": "To reset your password: 1) Click 'Forgot Password' on login page. 2) Enter your email. 3) Check email for reset link. 4) Click link and create new password. Password must be 8+ characters.",
+    "category": "account",
+    "tags": ["account", "password", "login", "reset"]
+  },
+  {
+    "id": "acc_002",
+    "title": "Two-Factor Authentication Setup",
+    "content": "Enable 2FA in Security Settings for better protection. Supported methods: SMS, authenticator apps (Google Authenticator, Authy). Setup takes 2 minutes. You'll be asked for 2FA code on login.",
+    "category": "account",
+    "tags": ["account", "security", "2fa"]
+  },
+  {
+    "id": "acc_003",
+    "title": "Account Login Issues",
+    "content": "If you can't login: 1) Reset your password. 2) Check email is correct. 3) Clear browser cache. 4) Try incognito mode. 5) Contact support if still stuck.",
+    "category": "account",
+    "tags": ["account", "login", "troubleshooting"]
+  },
+  {
+    "id": "acc_004",
+    "title": "Account Recovery",
+    "content": "If your account is compromised: 1) Change password immediately. 2) Review recent activity in Security tab. 3) Revoke suspicious sessions. 4) Enable 2FA. 5) Contact support if needed.",
+    "category": "account",
+    "tags": ["account", "security", "compromised"]
+  }
+]

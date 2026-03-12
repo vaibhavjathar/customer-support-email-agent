@@ -1,0 +1,30 @@
+[
+  {
+    "id": "bill_001",
+    "title": "Billing Information Update",
+    "content": "You can update your billing information in account settings. Go to Settings > Billing > Update Payment Method. Your information is encrypted and secure.",
+    "category": "billing",
+    "tags": ["billing", "payment", "update"]
+  },
+  {
+    "id": "bill_002",
+    "title": "Invoice Explanation",
+    "content": "Our invoices contain itemized charges for services rendered. Each line item shows the service, date, and amount charged. Invoices are issued monthly and sent to your email.",
+    "category": "billing",
+    "tags": ["billing", "invoice", "charges"]
+  },
+  {
+    "id": "bill_003",
+    "title": "Refund Policy",
+    "content": "Refunds are processed within 5-7 business days of approval. We offer full refunds within 30 days of purchase if you are not satisfied. Contact support to request a refund.",
+    "category": "billing",
+    "tags": ["billing", "refund", "money back"]
+  },
+  {
+    "id": "bill_004",
+    "title": "Duplicate Charge Resolution",
+    "content": "If you were charged twice, contact our support team immediately. We can verify the duplicate charge and process a refund. Keep your transaction ID handy for faster resolution.",
+    "category": "billing",
+    "tags": ["billing", "duplicate charge", "refund"]
+  }
+]

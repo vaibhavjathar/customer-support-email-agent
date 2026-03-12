@@ -1,0 +1,30 @@
+[
+  {
+    "id": "gen_001",
+    "title": "Getting Started",
+    "content": "Welcome to our service! Here's how to get started: 1) Create account. 2) Verify email. 3) Add payment method. 4) Create API key. 5) Read documentation. 6) Start building!",
+    "category": "general",
+    "tags": ["general", "onboarding", "getting started"]
+  },
+  {
+    "id": "gen_002",
+    "title": "Pricing and Plans",
+    "content": "Free: $0/month, 100 requests/hour. Pro: $29/month, 1000 requests/hour, priority support. Enterprise: Custom pricing for large scale. All plans include 99.9% uptime SLA.",
+    "category": "general",
+    "tags": ["general", "pricing", "plans"]
+  },
+  {
+    "id": "gen_003",
+    "title": "Contact Support",
+    "content": "Get help through multiple channels: Email: support@company.com (24-48h response). Chat: Available 9am-5pm EST. Phone: Enterprise plans only. Community forum: General questions.",
+    "category": "general",
+    "tags": ["general", "support", "contact"]
+  },
+  {
+    "id": "gen_004",
+    "title": "Service Status",
+    "content": "Check service status at status.company.com. We post updates about incidents, maintenance, and performance. Subscribe to status page for notifications. We aim for 99.9% uptime.",
+    "category": "general",
+    "tags": ["general", "status", "uptime"]
+  }
+]
