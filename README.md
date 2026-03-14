@@ -43,6 +43,20 @@ customer-support-email-agent/
 └── README.md                # This file
 ```
 
+
+## 📸 Product Showroom
+
+<div align="center">
+
+| Analytics & Inbox Dashboard | AI Agent Processing Pipeline |
+| :---: | :---: |
+| <img src="docs/dashboard.jpeg" width="450" alt="Inbox Dashboard"/> | <img src="docs/pipeline.jpeg" width="450" alt="Processing Pipeline"/> |
+
+| Human-in-the-Loop Review Queue | Interactive API Documentation |
+| :---: | :---: |
+| <img src="docs/review-queue.jpeg" width="450" alt="Review Queue"/> | <img src="docs/api-docs.jpeg" width="450" alt="API Documentation"/> |
+
+</div>
 ## 🚀 Quick Start
 
 ### Prerequisites
